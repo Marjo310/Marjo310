@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Martha Carmona
+- 👀 I’m interested in learning coding for fun
+- 🌱 I’m currently learning HTML, CSS & JAVASCRIPT
+- 💞️ I’m looking to collaborate on creative projects with anyone who wants to collaborate :)
+- 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/martha-carmona-bb72aa17a/)
+- 😄 Pronouns: she/her
